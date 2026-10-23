@@ -33,7 +33,11 @@ A définir : expliquer comment executer les tests
 ```
 
 
+<<<<<<< HEAD
 ## Deployment
+=======
+## Déploiement 
+>>>>>>> aa85138 (Test 2 Issue #2 Polymathe)
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,7 +58,11 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
+<<<<<<< HEAD
 * **Non spécifié**
+=======
+* O.C.
+>>>>>>> aa85138 (Test 2 Issue #2 Polymathe)
 
 ## License
 
